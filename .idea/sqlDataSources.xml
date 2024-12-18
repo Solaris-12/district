@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="f75f80f2-9375-4afc-b890-67ffe7e93bf0" name="players Mapping">
+      <data-sources db="5f26ecee-70cb-4b85-8d03-ed216b78ac83" ddl="c49b1cd7-66bc-49ab-8deb-bb231b766027" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="c49b1cd7-66bc-49ab-8deb-bb231b766027" />
+          <option name="name" value="players (DDL)" />
+          <option name="dbmsName" value="SQLITE" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

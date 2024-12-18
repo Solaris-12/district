@@ -1,0 +1,11 @@
+target/*
+target
+*debug
+config.json
+/lang.json
+/status.json
+/db
+/db/*
+Cargo.lock
+/sqlite3.dll
+/sqlite3.lib
